@@ -1,0 +1,23 @@
+{
+    "name": "element119/module-page-builder-custom-data-attributes",
+    "type": "magento2-module",
+    "description": "A Magento 2 module that allows custom data to be added to Page Builder content.",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
+        }
+    ],
+    "require": {
+        "magento/module-page-builder": "^2.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Element119\\PageBuilderCustomDataAttributes\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
