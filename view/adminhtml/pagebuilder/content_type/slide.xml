@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © element119. All rights reserved.
+ * See LICENCE.txt for licence details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_PageBuilder:etc/content_type.xsd">
+    <type name="slide">
+        <appearances>
+            <appearance name="collage-left">
+                <elements>
+                    <element name="main">
+                        <attribute name="custom_data_attributes"
+                                   source="data-custom-data-attributes"
+                                   converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
+                    </element>
+                </elements>
+            </appearance>
+            <appearance name="collage-centered">
+                <elements>
+                    <element name="main">
+                        <attribute name="custom_data_attributes"
+                                   source="data-custom-data-attributes"
+                                   converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
+                    </element>
+                </elements>
+            </appearance>
+            <appearance name="collage-right">
+                <elements>
+                    <element name="main">
+                        <attribute name="custom_data_attributes"
+                                   source="data-custom-data-attributes"
+                                   converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
+                    </element>
+                </elements>
+            </appearance>
+            <appearance name="poster">
+                <elements>
+                    <element name="main">
+                        <attribute name="custom_data_attributes"
+                                   source="data-custom-data-attributes"
+                                   converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
+                    </element>
+                </elements>
+            </appearance>
+        </appearances>
+    </type>
+</config>
