@@ -19,6 +19,13 @@
 
 ---
 
+## 🤝 Compatibility
+For Adobe Commerce, install
+[`element119/module-page-builder-custom-data-attributes-commerce`](https://github.com/pykettk/module-page-builder-custom-data-attributes-commerce)
+instead.
+
+<br>
+
 ## 📝 Features
 ✔️ Allows custom data to be added to Page Builder content
 
