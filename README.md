@@ -90,7 +90,7 @@ An expanded XML tree is shown below to serve as an example.
 <br/>
 
 ## 📚 User Guide
-Coming soon :)
+![full](https://user-images.githubusercontent.com/40261741/150883862-f3c6757f-9779-432e-b2bc-c0fdfa125e3d.png)
 
 ---
 
