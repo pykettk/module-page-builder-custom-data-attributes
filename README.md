@@ -69,8 +69,8 @@ To add custom data attributes to custom Page Builder content types simply copy t
 files.
 
 ```xml
-<attribute name="custom_data_attributes"
-           source="data-custom-data-attributes"
+<attribute name="custom_attributes"
+           source="data-custom-attributes"
            converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
 ```
 
@@ -84,8 +84,8 @@ An expanded XML tree is shown below to serve as an example.
         <appearance name="your_custom_content_type_appearance">
             <elements>
                 <element name="main">
-                    <attribute name="custom_data_attributes"
-                               source="data-custom-data-attributes"
+                    <attribute name="custom_attributes"
+                               source="data-custom-attributes"
                                converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
                 </element>
             </elements>
@@ -97,7 +97,13 @@ An expanded XML tree is shown below to serve as an example.
 <br/>
 
 ## 📚 User Guide
-![full](https://user-images.githubusercontent.com/40261741/150883862-f3c6757f-9779-432e-b2bc-c0fdfa125e3d.png)
+### Configuration and Output
+![full](https://user-images.githubusercontent.com/40261741/151176871-0ac887fe-00a5-4d4b-9686-5d6596b6c72f.png)
+
+<br>
+
+### Notes
+The HTML `data-custom-attributes` attribute will not be added when there is no data to output.
 
 ---
 
