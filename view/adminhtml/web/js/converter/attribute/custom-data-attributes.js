@@ -24,7 +24,7 @@ define([
                 return JSON.parse(value);
             }
 
-            return [];
+            return;
         };
 
         /**
@@ -45,7 +45,7 @@ define([
                 return JSON.stringify(content);
             }
 
-            return JSON.stringify([]);
+            return;
         };
 
         return CustomDataAttributes;
