@@ -79,7 +79,7 @@
                 </settings>
             </button>
         </container>
-        <dynamicRows name="custom_data_attributes"
+        <dynamicRows name="custom_attributes"
                      sortOrder="20"
                      component="Element119_PageBuilderCustomDataAttributes/js/form/components/custom-data-attribute-dynamic-rows"
                      template="Magento_PageBuilder/form/components/dynamic-rows/edit-form-on-click-grid">

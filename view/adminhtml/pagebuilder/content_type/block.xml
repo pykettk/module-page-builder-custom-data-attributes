@@ -12,8 +12,8 @@
             <appearance name="default">
                 <elements>
                     <element name="main">
-                        <attribute name="custom_data_attributes"
-                                   source="data-custom-data-attributes"
+                        <attribute name="custom_attributes"
+                                   source="data-custom-attributes"
                                    converter="Element119_PageBuilderCustomDataAttributes/js/converter/attribute/custom-data-attributes"/>
                     </element>
                 </elements>
