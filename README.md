@@ -9,8 +9,8 @@
 <div align="center">
 
 ![status](https://img.shields.io/badge/status-active-5fc238.svg)
-![github release](https://img.shields.io/github/v/release/pykettk/module-module-page-builder-custom-data-attributes?color=ffbf00&label=version)
-![github release date](https://img.shields.io/github/release-date/pykettk/module-module-page-builder-custom-data-attributes?color=8b32a8&label=last%20release)
+![github release](https://img.shields.io/github/v/release/pykettk/module-page-builder-custom-data-attributes?color=ffbf00&label=version)
+![github release date](https://img.shields.io/github/release-date/pykettk/module-page-builder-custom-data-attributes?color=8b32a8&label=last%20release)
 ![magento](https://img.shields.io/badge/Magento-^2.4.3-ec6611.svg)
 ![license](https://img.shields.io/badge/license-OSL-ff00dd.svg)
 ![packagist downloads](https://img.shields.io/packagist/dt/element119/module-cancel-held-orders?color=ff0000)
