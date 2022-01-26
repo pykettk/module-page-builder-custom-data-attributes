@@ -105,6 +105,8 @@ An expanded XML tree is shown below to serve as an example.
 ### Notes
 The HTML `data-custom-attributes` attribute will not be added when there is no data to output.
 
+![step-4](https://user-images.githubusercontent.com/40261741/151177231-a2829da7-bf69-4fec-a4aa-caf2ce213101.png)
+
 ---
 
 <div align="center">
