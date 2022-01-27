@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "magento/module-page-builder": "^2.2.1"
+        "magento/module-page-builder": "^2.2"
     },
     "autoload": {
         "psr-4": {
