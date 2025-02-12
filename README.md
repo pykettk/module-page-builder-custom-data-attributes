@@ -106,13 +106,3 @@ An expanded XML tree is shown below to serve as an example.
 The HTML `data-custom-attributes` attribute will not be added when there is no data to output.
 
 ![step-4](https://user-images.githubusercontent.com/40261741/151177231-a2829da7-bf69-4fec-a4aa-caf2ce213101.png)
-
----
-
-<div align="center">
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/pykettk)
-
-For those that want to support this project.
-
-</div>
